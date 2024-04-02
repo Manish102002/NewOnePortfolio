@@ -54,7 +54,7 @@ const Home = () => {
         {/* <span className="mansih lg:-mt-[240px] md:-mt-[100px] lg:text-[650px] md:text-[400px] sm:-mt-[50px] text-[300px] text-start lg:ml-40 md:ml-40 ml-10 font-[heading] whitespace-nowrap font-bold">
          I AM FRONTEND DEVELOPER.
        </span> */}
-        <img src="/public/manishkk.jpg" alt="" className="lg:w-[60vw] md:w-[60vw] sm:w-[70vw] w-[200vw]" />
+        <img src="https://i.ibb.co/kgLj2z1/manishkk.jpg" alt="" className="lg:w-[60vw] md:w-[60vw] sm:w-[70vw] w-[200vw]" />
       </div>
     </div>
   );
