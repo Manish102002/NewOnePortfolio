@@ -208,7 +208,7 @@ const Project = () => {
                 <Box className="photo rounded-lg">
                   <div className=" rounded-lg shadow-xl">
                     <img
-                      src="/public/project/dice.png"
+                      src="https://i.ibb.co/VxGg0mW/dice.png"
                       alt="img-2"
                       className=" w-72 h-96"
                     />
@@ -217,7 +217,7 @@ const Project = () => {
                 <Box className="photo rounded-lg">
                   <div className=" rounded-lg shadow-xl">
                     <img
-                      src="/public/project/paper.png"
+                      src="https://i.ibb.co/3pbFKCB/paper.png"
                       alt="img-2"
                       className=" w-72 h-96"
                     />
@@ -226,7 +226,7 @@ const Project = () => {
                 <Box className="photo rounded-lg">
                   <div className=" rounded-lg shadow-xl">
                     <img
-                      src="/public/project/todo.png"
+                      src="https://i.ibb.co/K7d4dvW/todo.png"
                       alt="img-2"
                       className=" w-72 h-96"
                     />
@@ -260,7 +260,7 @@ const Project = () => {
             <Box className=" rounded-lg mb-10">
               <div className="">
                 <img
-                  src="/public/project/dice.png"
+                  src="https://i.ibb.co/VxGg0mW/dice.png"
                   alt="img-2"
                   className="w-72 h-44 shadow-lg border rounded-lg"
                 />
@@ -309,7 +309,7 @@ const Project = () => {
             <Box className=" rounded-lg mb-10">
               <div className="">
                 <img
-                  src="/public/project/paper.png"
+                  src="https://i.ibb.co/3pbFKCB/paper.png"
                   alt="img-2"
                   className="w-72 h-44 shadow-lg border rounded-lg"
                 />
@@ -358,7 +358,7 @@ const Project = () => {
             <Box className=" rounded-lg mb-10">
               <div className="">
                 <img
-                  src="/public/project/todo.png"
+                  src="https://i.ibb.co/K7d4dvW/todo.png"
                   alt="img-2"
                   className="w-72 h-44 shadow-lg border rounded-lg"
                 />
