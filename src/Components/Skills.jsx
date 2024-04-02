@@ -19,56 +19,56 @@ const Skills = () => {
           <div className="flex flex-wrap mt-16 gap-4">
             <div className="  ">
               <img
-                src="/public/simages/React-icon.svg.webp"
+                src="https://i.ibb.co/8DBjkfD/React-icon-svg.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/css-min.webp"
+                src="https://i.ibb.co/kxXTyFV/css-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/html-min.webp"
+                src="https://i.ibb.co/F373H0S/html-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/js-min.webp"
+                src="https://i.ibb.co/vwk3Drd/js-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/node-min.webp"
+                src="https://i.ibb.co/0rKc3X4/node-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/github-min.webp"
+                src="https://i.ibb.co/7n2TKfB/github-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/MySQL-min.webp"
+                src="https://i.ibb.co/3WWXRV3/My-SQL-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
             </div>
             <div className="  ">
               <img
-                src="/public/simages/mongodb-min.webp"
+                src="https://i.ibb.co/qYjBcrQ/mongodb-min.webp"
                 alt=""
                 className=" lg:h-[15vh] md:h-[15vh] sm:h-[15vh] h-[8vh] w-full border px-2 py-1 bg-white rounded-lg"
               />
