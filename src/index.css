@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: ranga;
+  src: url(/public/fonts/moranga.ttf);
+}
+
+@font-face {
+  font-family: gem;
+  src: url(/public/fonts/Gilroy-Bold.otf);
+}
+
+@font-face {
+  font-family: heading;
+  src: url(/public/fonts/Heading-Now-Variable.ttf);
+}
+
+
+
+
+.btn{
+  box-shadow: 0 0 0.8vmax #49bff6;
+  background: linear-gradient(to right, #45d6e7, #38cdfa);
+  padding: 0.9vmax 1.5vmax;
+  border-radius: 5vmax;
+  font-family: ranga;
+}
+
+.manish {
+  font-stretch: 450%
+}
+
+
+.text-red {
+  color: rgb(239 68 68);
+  display: inline-block; /* Ensure the span behaves as an inline-block element */
+  transition: transform 0.3s ease; /* Add a transition for the transform property */
+}
+.text-blue {
+  color: #58C2F9;
+  display: inline-block; /* Ensure the span behaves as an inline-block element */
+  transition: transform 0.3s ease; /* Add a transition for the transform property */
+}
+.text-yellow {
+  color: #F6BA53;
+  display: inline-block; /* Ensure the span behaves as an inline-block element */
+  transition: transform 0.3s ease; /* Add a transition for the transform property */
+}
+
+.scale-transition:hover {
+  transform: scale(1.1); /* Scale up the text to 120% on hover */
+}
+
+
+/* @media (min-width: 640px) {
+  .btn {
+      font-size: 0.875rem/* 14px */;
+      /* line-height: 1.25rem20px; */
+  /* } */
+/* } */ 
