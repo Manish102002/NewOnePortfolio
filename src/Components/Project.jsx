@@ -212,7 +212,9 @@ const Project = () => {
                     jan 2024 - march 2024
                   </h4>
                   <div className="w-96">
-                  Discover a seamless shopping experience on our ecommerce website, offering a vast range of products from electronics to fashion. 
+                    Discover a seamless shopping experience on our ecommerce
+                    website, offering a vast range of products from electronics
+                    to fashion.
                   </div>
                   <div className=" flex  mt-12 gap-8">
                     <a
@@ -226,7 +228,10 @@ const Project = () => {
                         </div>
                       </div>
                     </a>
-                    <a href="https://e-commercelearning.netlify.app" target="_blank">
+                    <a
+                      href="https://e-commercelearning.netlify.app"
+                      target="_blank"
+                    >
                       <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
                         <div>live</div>
                         <div>
@@ -519,6 +524,53 @@ const Project = () => {
                     </div>
                   </a>
                   <a href="https://bikeproduct.netlify.app" target="_blank">
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>live</div>
+                      <div>
+                        <FaLink />
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </Box>
+          </div>
+
+          <hr className="mt-14 opacity-40" />
+
+          <div className="flex flex-col justify-center items-center py-14">
+            <Box className=" rounded-lg mb-10">
+              <div className="">
+                <img
+                  src="https://ik.imagekit.io/js3v2388q/portfolio/bike.png?updatedAt=1712301305306"
+                  alt="img-2"
+                  className="w-72 h-44 shadow-lg border rounded-lg"
+                />
+              </div>
+            </Box>
+
+            <Box className="">
+              <div className=" font-[gem] flex flex-col text-center items-center">
+                <h1 className=" text-4xl">E-Commerce</h1>
+                <h4 className=" text-md opacity-30 mb-5">
+                  jan 2024 - march 2024
+                </h4>
+                <div className="w-96">
+                Discover a seamless shopping experience on our ecommerce website, offering a vast range of products from electronics to fashion.
+                </div>
+                <div className=" flex  mt-5 gap-8">
+                  <a
+                    href="https://github.com/Manish102002/e-commerce"
+                    target="_blank"
+                  >
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>Code</div>
+                      <div>
+                        <FaCode />
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://e-commercelearning.netlify.app" target="_blank">
                     <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
                       <div>live</div>
                       <div>
