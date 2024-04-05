@@ -111,8 +111,9 @@ const Project = () => {
                     Jun 2023 - Jul 2023
                   </h4>
                   <div className="w-96">
-                    Experience the thrill of rolling dice in this React project
-                    enhanced with Tailwind CSS. Navigate sea...
+                    A papertype portfolio is a curated collection of written
+                    works showcasing an individual's expertise and skills in
+                    diverse subjects.
                   </div>
                   <div className=" flex  mt-12 gap-8">
                     <a
@@ -161,6 +162,71 @@ const Project = () => {
                       </div>
                     </a>
                     <a href="https://timetablelist.netlify.app" target="_blank">
+                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                        <div>live</div>
+                        <div>
+                          <FaLink />
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </Box>
+              <Box className="details">
+                <div className=" font-[gem] flex flex-col text-center items-center">
+                  <h1 className=" text-4xl">BikeProduct</h1>
+                  <h4 className=" text-md opacity-30 mb-10">
+                    june 2023 - August 2023
+                  </h4>
+                  <div className="w-96">
+                    Explore our bike product website for a comprehensive
+                    selection of premium bikes and accessories.
+                  </div>
+                  <div className=" flex  mt-12 gap-8">
+                    <a
+                      href="https://github.com/Manish102002/bike"
+                      target="_blank"
+                    >
+                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                        <div>Code</div>
+                        <div>
+                          <FaCode />
+                        </div>
+                      </div>
+                    </a>
+                    <a href="https://bikeproduct.netlify.app" target="_blank">
+                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                        <div>live</div>
+                        <div>
+                          <FaLink />
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </Box>
+              <Box className="details">
+                <div className=" font-[gem] flex flex-col text-center items-center">
+                  <h1 className=" text-4xl">E-Commerce</h1>
+                  <h4 className=" text-md opacity-30 mb-10">
+                    jan 2024 - march 2024
+                  </h4>
+                  <div className="w-96">
+                  Discover a seamless shopping experience on our ecommerce website, offering a vast range of products from electronics to fashion. 
+                  </div>
+                  <div className=" flex  mt-12 gap-8">
+                    <a
+                      href="https://github.com/Manish102002/e-commerce"
+                      target="_blank"
+                    >
+                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                        <div>Code</div>
+                        <div>
+                          <FaCode />
+                        </div>
+                      </div>
+                    </a>
+                    <a href="https://e-commercelearning.netlify.app" target="_blank">
                       <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
                         <div>live</div>
                         <div>
@@ -232,6 +298,24 @@ const Project = () => {
                     />
                   </div>
                 </Box>
+                <Box className="photo rounded-lg">
+                  <div className=" rounded-lg shadow-xl">
+                    <img
+                      src="https://ik.imagekit.io/js3v2388q/portfolio/bike.png?updatedAt=1712301305306"
+                      alt="img-2"
+                      className=" w-72 h-96"
+                    />
+                  </div>
+                </Box>
+                <Box className="photo rounded-lg">
+                  <div className=" rounded-lg shadow-xl">
+                    <img
+                      src="https://ik.imagekit.io/js3v2388q/portfolio/ecom.png?updatedAt=1712301305435"
+                      alt="img-2"
+                      className=" w-72 h-96"
+                    />
+                  </div>
+                </Box>
                 {/* <Box className="photo">
                 <img
                   src="http://static.showit.co/800/3kOLYaOCS1SMieN6Y88Fqg/59514/mukuko-studio-mu88mlefcou-unsplash.jpg"
@@ -276,29 +360,28 @@ const Project = () => {
                   Experience the thrill of rolling dice in this React project
                   enhanced with Tailwind CSS. Navigate sea...
                 </div>
-                
-                  <div className=" flex  mt-5 gap-8">
-                    <a
-                      href="https://github.com/Manish102002/DiceGame"
-                      target="_blank"
-                    >
-                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
-                        <div>Code</div>
-                        <div>
-                          <FaCode />
-                        </div>
+
+                <div className=" flex  mt-5 gap-8">
+                  <a
+                    href="https://github.com/Manish102002/DiceGame"
+                    target="_blank"
+                  >
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>Code</div>
+                      <div>
+                        <FaCode />
                       </div>
-                    </a>
-                    <a href="https://dicerelated.netlify.app" target="_blank">
-                      <div className=" flex gap-2 items-center cursor-pointer px-3 py-2 border ">
-                        <div>Live</div>
-                        <div>
-                          <FaLink />
-                        </div>
+                    </div>
+                  </a>
+                  <a href="https://dicerelated.netlify.app" target="_blank">
+                    <div className=" flex gap-2 items-center cursor-pointer px-3 py-2 border ">
+                      <div>Live</div>
+                      <div>
+                        <FaLink />
                       </div>
-                    </a>
-                  </div>
-                
+                    </div>
+                  </a>
+                </div>
               </div>
             </Box>
           </div>
@@ -327,27 +410,27 @@ const Project = () => {
                   enhanced with Tailwind CSS. Navigate sea...
                 </div>
                 <div className=" flex  mt-5 gap-8">
-                    <a
-                      href="https://github.com/Manish102002/NewsPaper"
-                      target="_blank"
-                    >
-                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
-                        <div>Code</div>
-                        <div>
-                          <FaCode />
-                        </div>
+                  <a
+                    href="https://github.com/Manish102002/NewsPaper"
+                    target="_blank"
+                  >
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>Code</div>
+                      <div>
+                        <FaCode />
                       </div>
-                    </a>
-                    <a href="https://newsportfolio.netlify.app" target="_blank">
-                      {" "}
-                      <div className=" flex gap-2 items-center cursor-pointer px-3 py-2 border ">
-                        <div>Live</div>
-                        <div>
-                          <FaLink />
-                        </div>
+                    </div>
+                  </a>
+                  <a href="https://newsportfolio.netlify.app" target="_blank">
+                    {" "}
+                    <div className=" flex gap-2 items-center cursor-pointer px-3 py-2 border ">
+                      <div>Live</div>
+                      <div>
+                        <FaLink />
                       </div>
-                    </a>
-                  </div>
+                    </div>
+                  </a>
+                </div>
               </div>
             </Box>
           </div>
@@ -376,26 +459,74 @@ const Project = () => {
                   JavaScript. Stay organized with ease using this ....
                 </div>
                 <div className=" flex  mt-5 gap-8">
-                    <a
-                      href="https://github.com/Manish102002/To-doList"
-                      target="_blank"
-                    >
-                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
-                        <div>Code</div>
-                        <div>
-                          <FaCode />
-                        </div>
+                  <a
+                    href="https://github.com/Manish102002/To-doList"
+                    target="_blank"
+                  >
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>Code</div>
+                      <div>
+                        <FaCode />
                       </div>
-                    </a>
-                    <a href="https://timetablelist.netlify.app" target="_blank">
-                      <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
-                        <div>live</div>
-                        <div>
-                          <FaLink />
-                        </div>
+                    </div>
+                  </a>
+                  <a href="https://timetablelist.netlify.app" target="_blank">
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>live</div>
+                      <div>
+                        <FaLink />
                       </div>
-                    </a>
-                  </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </Box>
+          </div>
+
+          <hr className="mt-14 opacity-40" />
+
+          <div className="flex flex-col justify-center items-center py-14">
+            <Box className=" rounded-lg mb-10">
+              <div className="">
+                <img
+                  src="https://ik.imagekit.io/js3v2388q/portfolio/bike.png?updatedAt=1712301305306"
+                  alt="img-2"
+                  className="w-72 h-44 shadow-lg border rounded-lg"
+                />
+              </div>
+            </Box>
+
+            <Box className="">
+              <div className=" font-[gem] flex flex-col text-center items-center">
+                <h1 className=" text-4xl">BikeProduct</h1>
+                <h4 className=" text-md opacity-30 mb-5">
+                  June 2023 - August 2023
+                </h4>
+                <div className="w-96">
+                  Explore our bike product website for a comprehensive selection
+                  of premium bikes and accessories.
+                </div>
+                <div className=" flex  mt-5 gap-8">
+                  <a
+                    href="https://github.com/Manish102002/bike"
+                    target="_blank"
+                  >
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>Code</div>
+                      <div>
+                        <FaCode />
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://bikeproduct.netlify.app" target="_blank">
+                    <div className=" flex gap-2 items-center border px-3 cursor-pointer py-2 ">
+                      <div>live</div>
+                      <div>
+                        <FaLink />
+                      </div>
+                    </div>
+                  </a>
+                </div>
               </div>
             </Box>
           </div>
