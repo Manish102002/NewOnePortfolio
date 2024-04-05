@@ -13,7 +13,7 @@ const Navbar = () => {
           </div> */}
           <div>
             <div className="btn border-blue cursor-pointer py-2 hidden lg:block md:block sm:block  font-bold bg-blue shadow text-sm sm:text-sm">
-              get my Resume Offline
+             <a href="https://ik.imagekit.io/js3v2388q/portfolio/Manish%20(2).pdf?updatedAt=1712307286156" download> get my Resume Offline</a>
             </div>
             <div className="btn border-blue cursor-pointer py-2 block lg:hidden md:hidden sm:hidden  font-bold bg-blue shadow text-sm sm:text-sm">
               my Resume
