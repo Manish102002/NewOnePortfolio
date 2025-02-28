@@ -6,7 +6,7 @@ const About = () => {
     <>
       <div className=" min-h-full overflow-x-hidden mt-10 mb-10">
         <p className=" font-[ranga] text-white lg:text-[4.4vw] md:text-[4.4vw] sm:text-[4.4vw] text-[6.4vw]  text-center lg:px-44 md:px-28 sm:px-20 px-3">
-          HiI! <br /> I'm Manish, a frontend developer. I am an enthusiatic,
+          Hii! <br /> I'm Manish, a frontend developer. I am an enthusiatic,
           self-motivated, reliable, responsible and hard working person. I am a
           mature team worker and adaptable to all challenging situations. I am
           able to work well both in a team enviroment as well as using own
